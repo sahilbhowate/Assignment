@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "2399939393",
+      "city": "Amravati",
+      "id": 1
+    },
+    {
+      "name": "Joe",
+      "email": "joe@gmail.com",
+      "phone": "234505043",
+      "city": "Delhi",
+      "id": 2
+    }
+  ]
+}
